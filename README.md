@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=einstein&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 ![Einstein's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bacuriim&show_icons=true&theme=transparent)
 
 <!--
