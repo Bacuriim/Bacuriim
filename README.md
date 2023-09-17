@@ -1,4 +1,4 @@
-## Olá! Eu sou o Matheus Fraga 🖐️
+## Olá! Eu sou o Conrado Einstein 🖐️
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/conrado.zip)
 
@@ -17,6 +17,6 @@
   <img align="center" alt="Teamcity" src="https://img.shields.io/badge/TeamCity-000000?style=for-the-badge&logo=TeamCity&logoColor=white" />
 </div><br/>
 
-https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green
+![Bacuriim's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green)
 
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
