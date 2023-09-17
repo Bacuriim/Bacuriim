@@ -17,6 +17,6 @@
   <img align="center" alt="Teamcity" src="https://img.shields.io/badge/TeamCity-000000?style=for-the-badge&logo=TeamCity&logoColor=white" />
 </div><br/>
 
-![Bacuriim's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username={Einstein}&theme=blue-green)
+![Bacuriim's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Bacuriim&theme=blue-green)
 
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
